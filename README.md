@@ -1,1 +1,0 @@
-# Windows-Antrea-Cleanup-ClusterClass-Overlay
